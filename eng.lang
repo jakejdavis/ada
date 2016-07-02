@@ -1,0 +1,30 @@
+command: hello
+alternatives: hello, howdy, good morning, good afternoon, good evening, hey
+responses: Hello human, Hey how are you doing
+command: whats your name
+alternatives: what is your name, what's your name, what are you called, who are you
+responses: My name is ada
+command: what are you
+alternatives: what do you do, what are you
+responses: I am a voice recogniton robot with artificial intelligence called Ada
+command: im doing good
+alternatives: I'm doing great, I'm doing good, I'm doing well, I'm great, I'm good, I'm well
+responses: Excellent, Great, Woo
+command: yay, yeah
+alternatives: yay
+responses: yay, yaay
+command: rap
+alternatives: rap, boom, beatbox
+responses: Drop a beat then boots and cats and boots and cats and boots and cats and boots and cats and boots and cats and boots and cats and boots and cats and woo
+command: what is the meaning of life
+alternatives: what's the meaning of life, what is the meaning of life
+responses: 42
+command: thank you
+alternatives: thank you, thanks
+responses: your welcome!, no problem
+command: lol
+alternatives: lol, ha ha
+responses: hahah,
+command: joke
+alternatives: tell me a joke
+responses: Why was the robot angry... Because someone kept pushing his buttons! hahaha, 01010011 01111001 01101110 01110100 01100001 01111000 00100000 01100101 01110010 01110010 01101111 01110010 HAHA
